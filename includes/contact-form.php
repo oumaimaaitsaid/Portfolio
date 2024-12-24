@@ -23,7 +23,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     if (empty($errors)) {
         // Send email (replace with your preferred method)
-        $to = 'johndoe@example.com';
+        $to = 'oumaimaaitsaid.dev.com';
         $subject = 'New contact form submission';
         $body = "Name: $name\nEmail: $email\n\nMessage:\n$message";
         $headers = "From: $email";

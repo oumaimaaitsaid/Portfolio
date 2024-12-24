@@ -1,5 +1,5 @@
 <?php
-$title = "John Doe - PHP Expert";
+$title = "Oumaima Ait Said - PHP Expert";
 $active_page = "home";
 include 'includes/header.php';
 ?>
