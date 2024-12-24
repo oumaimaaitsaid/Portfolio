@@ -38,5 +38,5 @@ This repository contains the source code for my professional portfolio as a PHP 
 
 ## Contact
 
-If you have any questions or would like to get in touch, please feel free to reach out to me at [your.email@example.com](mailto:oumaimaaitsaid.dev@gmail.com) or through the contact form on my portfolio website.
+If you have any questions or would like to get in touch, please feel free to reach out to me at [your.oumaimaaitsaid.dev@gmail.com](mailto:oumaimaaitsaid.dev@gmail.com) or through the contact form on my portfolio website.
 
